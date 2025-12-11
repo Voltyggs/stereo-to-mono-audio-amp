@@ -8,35 +8,35 @@ BOM at the bottom <br />
 <img width="535" height="473" alt="image" src="https://github.com/user-attachments/assets/d7d053f6-1ffa-4c99-9e35-5d1361b314f3" />
 
 BOM: <br />
-1x LM836 IC     20 taka/14 cents<br />
+1x LM836 IC     20 taka/7 USD<br />
 https://techshopbd.com/product/lm386-opamp <br />
 <br />
 https://www.amazon.com/BOJACK-LM358P-Operational-Amplifier-LM358N/dp/B07WQWPLSP/ref=sr_1_4?sr=8-4 (pack of 50) <br />
 <br />
 <br />
 
-1x 100nF / 0.1uF capacitor    .15 taka /.06 cents <br />
+1x 100nF / 0.1uF capacitor    .15 taka /7 USD <br />
 https://techshopbd.com/product/ceramic-capacitor-104-100nf (pack of 10) <br />
 <br />
 https://www.amazon.com/mxuteuk-Multilayer-Monolithic-Capacitor-0-1uf-104/dp/B08B3VCK42/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY (pack of 120)<br />
 <br />
 <br />
 
-2x 100uF capacitor     3.89 taka/30 cents <br />
+2x 100uF capacitor     3.89 taka/6 USD <br />
 https://techshopbd.com/product/100uf-50v-capacitor <br />
 <br />
 https://www.amazon.com/Tnisesm-Electrolytic-Capacitor-Aluminum-Radial/dp/B0CZ71WTV2/ref=sr_1_5?sr=8-5 (pack of 20) <br />
 <br />
 <br />
 
-1x 1000uF capacitor     18.06 taka/70 cents <br />
+1x 1000uF capacitor     18.06 taka/6 USD <br />
 https://techshopbd.com/product/1000uf-50v-capacitor <br />
 <br />
 https://www.amazon.com/ALLECIN-Electrolytic-Capacitor-0-39x0-67in-Capacitors/dp/B0CMQC14TZ/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY (pack of 10) <br />
 <br />
 <br />
 
-2x 1K Ohm resistor    3.02 taka/ .7 cents <br />
+2x 1K Ohm resistor    3.02 taka/ 6 USD <br />
 https://techshopbd.com/product/1k-ohm-2w-resistor <br />
 <br />
 https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QG1V4YL/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY (pack of 100) <br />
